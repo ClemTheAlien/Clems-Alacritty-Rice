@@ -4,7 +4,7 @@ This is ClemTheAliens personal Alacritty config
 
 I also included a folder of my personal favorite themes from the https://github.com/mbadolato/iTerm2-Color-Schemes project.
 
-## Copy Only my TOML file
+## Copy Only My TOML file
 ```sh
 wget -O /.config/alacritty/ https://raw.githubusercontent.com/ClemTheAlien/Clems-Alacritty-Rice/clem.yml
 ```
