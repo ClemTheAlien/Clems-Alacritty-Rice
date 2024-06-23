@@ -1,4 +1,4 @@
-# Clems-Alacritty-Rice
+# Clems Alacritty Rice
 
 This is ClemTheAliens personal Alacritty config 
 
