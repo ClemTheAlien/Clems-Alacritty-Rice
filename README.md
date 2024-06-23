@@ -6,11 +6,11 @@ I also included a folder of my personal favorite themes from the https://github.
 
 ## Copy Only My TOML file
 ```sh
-wget -O /.config/alacritty/ https://raw.githubusercontent.com/ClemTheAlien/Clems-Alacritty-Rice/clemalacritty.yml
+wget -O .config/alacritty/ https://raw.githubusercontent.com/ClemTheAlien/Clems-Alacritty-Rice/clemalacritty.yml
 ```
 ## Copy My Themes and TOML file
 ``` sh
-wget -O /.config/alacritty/ https://raw.githubusercontent.com/ClemTheAlien/Clems-Alacritty-Rice/main/clemalacritty.yml
-wget -O /.config/alacritty/ https://raw.githubusercontent.com/ClemTheAlien/Clems-Alacritty-Rice/main/My Fav Themes
+wget -O .config/alacritty/ https://raw.githubusercontent.com/ClemTheAlien/Clems-Alacritty-Rice/main/clemalacritty.yml
+wget -O .config/alacritty/ https://raw.githubusercontent.com/ClemTheAlien/Clems-Alacritty-Rice/main/My Fav Themes
 ```
 NOTE: Make sure to change the path of the import line to whatever color scheme you want or just copy n' paste your own and remove the import line 
