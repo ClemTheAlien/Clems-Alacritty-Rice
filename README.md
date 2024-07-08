@@ -2,7 +2,7 @@
 
 This is ClemTheAliens personal Alacritty config 
 
-I also included a folder of my personal favorite themes from the https://github.com/mbadolato/iTerm2-Color-Schemes project.
+I also included a folder of my personal favorite themes from the https://github.com/mbadolato/iTerm2-Color-Schemes project. When i do not use prebuilt color schemes I use pywal: https://github.com/dylanaraps/pywal.
 
 ## Prerequisites
 + Install Git (obviously)
